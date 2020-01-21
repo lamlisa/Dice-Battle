@@ -6,4 +6,3 @@ Two players face each other in a dice game. The goal is to be the first to reach
 The purpose of this project is to determine an optimal game strategy (and to test this strategy against other strategies). If a player wins, his gain is 1. If he lost, his gain is -1. If the game is tied, his gain is 0. It is therefore a zero-sum game.
 
 You can found the code and the statistical tests in the jupyter notebook 'Dice Battle.ipynb'.
-'RapportLamSalais' is a much more complete report (in french).
